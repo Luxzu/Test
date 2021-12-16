@@ -18,6 +18,8 @@ int main()
     {
         std::cout << "Vrijednost: " << counter << "\n";
         counter++;
+
+
     }
 
     std::cout << "\n\n";
